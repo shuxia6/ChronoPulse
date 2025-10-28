@@ -1,0 +1,262 @@
+datetime,mood,note
+2025-08-01 09:12,Happy,Just started the day with a great coffee! ☕
+2025-08-01 14:47,开心,午饭吃得超级满足😋
+2025-08-01 19:33,Neutral,暮色里平平淡淡的一天，像白纸一样安静📝，公交上遇到一个会唱歌的人
+2025-08-02 08:19,压力大,早起就觉得今天会乱套
+2025-08-02 13:05,Stressed,午后太多待办，决定先做最关键的一项。，窗外的云像棉花糖
+2025-08-03 10:41,Neutral,Everything's just meh today.
+2025-08-03 16:23,Happy,下午心情不错，连路边的猫都像在对我眨眼😺，散步了一会儿，有点感概
+2025-08-03 21:08,开心,晚上散步看到了美丽的夕阳🌅
+2025-08-04 07:55,Stressed,Alarm clock felt like an enemy this morning.
+2025-08-04 12:36,Neutral,中午工作/学习步步推进，稳中带进展。，散步了一会儿，想早点睡
+2025-08-05 11:17,开心,午间心情不错，连路边的猫都像在对我眨眼😺，做了个小练习，心情好了
+2025-08-05 15:49,Happy,Scored tickets to that concert! 🎸
+2025-08-05 20:24,压力大,工作堆积如山，脑壳疼
+2025-08-06 09:03,Neutral,早上平平淡淡的一天，像白纸一样安静📝，和朋友聊天，想早点睡
+2025-08-06 14:58,Stressed,下午太多待办，决定先做最关键的一项。发现街角的植物长胖了
+2025-08-07 08:44,Happy,早上心情不错，连路边的猫都像在对我眨眼😺，听了首歌，需要更多睡眠
+2025-08-07 13:31,开心,下午拍了张好看的自拍，自信爆棚📸，窗外的云像棉花糖
+2025-08-08 10:27,压力大,早上太多待办，决定先做最关键的一项。，公交上遇到一个会唱歌的人
+2025-08-08 17:12,Neutral,Just chilling with some music.
+2025-08-09 07:39,Stressed,Weekend but still got chores piling up.
+2025-08-09 12:50,Happy,午间空气里有糖果味（可能是我的咖啡）☕，桌上多了一只笔
+2025-08-09 18:46,开心,晚上心情不错，连路边的猫都像在对我眨眼😺，喝了杯咖啡，想早点睡
+2025-08-10 09:22,Neutral,一早工作/学习步步推进，稳中带进展。，公交上遇到一个会唱歌的人
+2025-08-10 15:07,压力大,午后感觉被时间追着跑，喘不过气来😣，散步了一会儿，需要更多睡眠
+2025-08-11 11:53,Happy,Met up with old friends – pure joy! 👯
+2025-08-11 16:38,Stressed,Traffic jam ruined my vibe.
+2025-08-12 08:16,开心,
+2025-08-12 14:01,Neutral,
+2025-08-12 19:29,Happy,
+2025-08-13 10:04,压力大,考试前夕，紧张到爆炸💥
+2025-08-13 15:50,Stressed,
+2025-08-14 09:35,Neutral,Another rainy day feeling blah.
+2025-08-14 13:21,开心,
+2025-08-15 08:02,Happy,
+2025-08-15 12:47,压力大,
+2025-08-15 18:13,Neutral,
+2025-08-16 10:58,Stressed,Family drama kicking in again.
+2025-08-16 16:44,Happy,
+2025-08-17 07:30,开心,
+2025-08-17 14:16,Neutral,
+2025-08-18 09:01,压力大,
+2025-08-18 13:47,Stressed,
+2025-08-18 19:32,Happy,Tried a new recipe – turned out amazing! 🍲
+2025-08-19 11:18,Neutral,
+2025-08-19 16:04,开心,下午茶时间，放松一下🍵
+2025-08-20 08:49,Stressed,
+2025-08-20 14:35,Happy,
+2025-08-21 10:21,压力大,
+2025-08-21 15:06,Neutral,Just going through the motions.
+2025-08-22 07:52,开心,
+2025-08-22 12:38,Happy,Watched a hilarious comedy show 😂
+2025-08-22 18:23,Stressed,
+2025-08-23 09:09,Neutral,
+2025-08-23 14:54,压力大,账单来了，心塞
+2025-08-24 10:40,Happy,
+2025-08-24 16:26,开心,
+2025-08-25 08:11,Stressed,Monday blues hitting hard.
+2025-08-25 13:57,Neutral,
+2025-08-25 19:42,压力大,
+2025-08-26 09:28,Happy,
+2025-08-26 15:13,开心,意外收到礼物，惊喜！
+2025-08-27 10:59,Neutral,
+2025-08-27 16:45,Stressed,
+2025-08-28 08:30,Happy,Started a new book – loving it! 📖
+2025-08-28 14:16,压力大,
+2025-08-29 10:02,Neutral,
+2025-08-29 15:47,开心,
+2025-08-30 07:33,Stressed,
+2025-08-30 13:19,Happy,
+2025-08-30 19:04,Neutral,Evening walk cleared my head a bit.
+2025-08-31 09:50,压力大,月底总结，任务没完成😩
+2025-08-31 15:36,开心,
+2025-09-01 11:21,Happy,
+2025-09-01 17:07,Stressed,Meeting went longer than expected.
+2025-09-02 08:53,Neutral,
+2025-09-02 14:38,开心,
+2025-09-02 20:24,压力大,
+2025-09-03 10:10,Happy,Found a cool new playlist 🎶
+2025-09-03 15:55,Stressed,
+2025-09-04 07:41,Neutral,
+2025-09-04 13:27,开心,
+2025-09-04 19:12,Happy,
+2025-09-05 09:58,压力大,咖啡洒了，一天坏开头
+2025-09-05 15:44,Neutral,
+2025-09-06 11:29,Stressed,
+2025-09-06 17:15,Happy,
+2025-09-07 08:00,开心,周日懒床，好惬意
+2025-09-07 13:46,Neutral,
+2025-09-07 19:31,压力大,
+2025-09-08 10:17,Happy,
+2025-09-08 16:03,Stressed,Email inbox exploding.
+2025-09-09 08:48,Neutral,
+2025-09-09 14:34,开心,
+2025-09-10 10:19,压力大,
+2025-09-10 16:05,Happy,Won a small bet with friends! 🏆
+2025-09-11 07:51,Neutral,
+2025-09-11 13:36,Stressed,
+2025-09-11 19:22,开心,
+2025-09-12 09:08,Happy,
+2025-09-12 14:53,压力大,项目bug多到怀疑人生
+2025-09-13 10:39,Neutral,
+2025-09-13 16:25,Stressed,
+2025-09-14 08:10,Happy,Sunday brunch was delicious! 🥞
+2025-09-14 13:56,开心,
+2025-09-14 19:41,Neutral,
+2025-09-15 09:27,压力大,
+2025-09-15 15:12,Stressed,
+2025-09-16 10:58,Happy,
+2025-09-16 16:44,Neutral,Just average nothing exciting.
+2025-09-17 08:29,开心,
+2025-09-17 14:15,压力大,
+2025-09-17 20:00,Happy,Game night with buddies – epic wins! 🎮
+2025-09-18 09:46,Stressed,
+2025-09-18 15:31,Neutral,
+2025-09-19 11:17,开心,天气好，心情也跟着飞
+2025-09-19 17:02,Happy,
+2025-09-20 08:48,压力大,
+2025-09-20 14:33,Neutral,
+2025-09-20 20:19,Stressed,Long day feet hurting.
+2025-09-21 10:04,Happy,
+2025-09-21 15:50,开心,
+2025-09-21 21:35,Neutral,
+2025-09-22 07:21,压力大,周一又来了，动力不足
+2025-09-22 13:06,Happy,
+2025-09-22 18:52,Stressed,
+2025-09-22 20:06,开心,
+2025-09-23 20:06,开心,今天的节奏就像坐过山车，但我还挺享受的🎢
+2025-09-23 20:09,一般,感觉生活在偷偷对我笑🤭
+2025-09-23 20:17,开心,突然发现自己居然能熬过今天，给自己鼓个掌👏
+2025-09-24 13:24,一般,又来图书馆学习了
+2025-09-24 14:17,开心,明明是平凡的一天，却觉得有点闪光✨
+2025-09-24 14:53,开心,今天的节奏就像坐过山车，但我还挺享受的🎢
+2025-09-24 16:25,压力大,今天的节奏就像坐过山车，但我还挺享受的🎢
+2025-09-24 16:26,开心,今天的夕阳好像在给我打气🌇
+2025-09-24 17:05,开心,感觉生活在偷偷对我笑🤭
+2025-09-24 17:07,开心,有点累，但有那种‘我在变厉害’的感觉💪
+2025-09-24 17:10,开心,有点小焦虑，不过听了点音乐就好多了🎧
+2025-09-25 13:10,开心,感觉生活在偷偷对我笑🤭
+2025-09-25 18:25,开心,学到新东西的瞬间真的很爽📚
+2025-09-25 20:31,Happy,咖啡续命的一天☕，效率MAX
+2025-09-26 13:35,Stressed,有点小焦虑，不过听了点音乐就好多了🎧
+2025-09-27 07:13,开心,今天的节奏就像坐过山车，但我还挺享受的🎢
+2025-09-27 10:49,Happy,咖啡续命的一天☕，效率MAX
+2025-09-27 20:59,Stressed,突然发现自己居然能熬过今天，给自己鼓个掌👏
+2025-09-27 08:05,开心,有点小焦虑，不过听了点音乐就好多了🎧
+2025-09-28 12:22,Neutral,今天的节奏就像坐过山车，但我还挺享受的🎢
+2025-09-28 14:52,Neutral,咖啡续命的一天☕，效率MAX
+2025-09-28 07:38,Neutral,咖啡续命的一天☕，效率MAX
+2025-09-29 20:22,Happy,今天的夕阳好像在给我打气🌇
+2025-09-29 13:50,开心,今天的节奏就像坐过山车，但我还挺享受的🎢
+2025-09-30 11:03,开心,没干啥正事，但心情莫名不错🌤️
+2025-09-30 15:47,Stressed,突然一阵焦虑，不过听了点音乐就好多了🎧
+2025-10-01 11:41,Happy,感觉生活在偷偷对我笑🤭
+2025-10-01 12:03,压力大,没干啥正事，但心情莫名不错🌤️
+2025-10-02 08:40,压力大,明明是平凡的一天，却觉得有点闪光✨
+2025-10-02 15:27,压力大,感觉生活在偷偷对我笑🤭
+2025-10-02 20:33,开心,明明是平凡的一天，却觉得有点闪光✨
+2025-10-03 12:38,压力大,没干啥正事，但心情莫名不错🌤️
+2025-10-03 16:35,Neutral,明明是平凡的一天，却觉得有点闪光✨
+2025-10-03 18:49,Happy,今天的节奏就像坐过山车，但我还挺享受的🎢
+2025-10-04 07:27,Neutral,突然发现自己居然能熬过今天，给自己鼓个掌👏
+2025-10-04 10:04,Neutral,明明是平凡的一天，却觉得有点闪光✨
+2025-10-04 13:58,Neutral,"Just a lot of screen time today. My eyes feel like they need a vacation 🏝️"
+2025-10-04 18:22,Happy,"Managed to finish a big project before the weekend! Freedom at last! 🦅"
+2025-10-05 09:15,Happy,"Woke up feeling like I could conquer the world. Maybe just my to-do list first 👑"
+2025-10-05 12:47,Neutral,"Brunch was good, but now I'm facing the laundry pile. The eternal struggle 🧺"
+2025-10-05 16:30,Stressed,"Accidentally deleted a file. Immediate panic mode activated! 😱"
+2025-10-05 21:05,Happy,"Crisis averted! File recovered. Time for a well-deserved reward (ice cream) 🍦"
+2025-10-06 10:20,Happy,"Lazy Sunday morning perfection. Just coffee and silence ☕"
+2025-10-06 14:03,Stressed,"Trying to plan the week ahead is already stressing me out. Send wine or wisdom 🍷"
+2025-10-06 19:45,Neutral,"Watched a weird documentary. Don't know how I feel about it, just... confused 🤔"
+2025-10-07 08:30,Happy,"Monday morning energy is a surprise! Ready to crush it 💪"
+2025-10-07 13:11,Neutral,"Feeling like a background character in my own movie today. Just coasting along 👀"
+2025-10-07 17:55,开心,"下班路上听到了很棒的歌，心情跟着跳起来了 🎶"
+2025-10-07 22:18,Happy,"Had a great chat with a friend I hadn't seen in ages. Soul food! 👯‍♀️"
+2025-10-08 09:40,Stressed,"The deadlines are multiplying like rabbits. Need a magical solution or just more caffeine 🐇"
+2025-10-08 14:26,Neutral,"Just focused on checking things off the list. Robot mode activated 🤖"
+2025-10-08 19:10,开心,"自己做的晚餐意外的好吃！厨艺大进步！🥳"
+2025-10-09 11:07,Happy,"Got a lovely surprise package in the mail! It's the small things that count 🎁"
+2025-10-09 15:45,Neutral,"It's a 'meh' kind of day. Everything is just okay, which is fine, I guess 🤷‍♀️"
+2025-10-09 20:00,压力大,"突然想起来有个重要的事情忘了做。今晚要熬夜了... 🌃"
+2025-10-10 07:40,Stressed,"Thought it was Friday, then realized it's only Thursday. A tragedy in two acts 🎭"
+2025-10-10 12:15,Happy,"Had a genuinely funny moment with a colleague. Laughter is the best lunch break 😂"
+2025-10-10 16:55,Neutral,"Quiet afternoon, just pushing pixels and drinking water. Hydrated and existing 💧"
+2025-10-10 21:30,开心,"看完了一部期待已久的电影，结局很圆满！🎬"
+2025-10-11 08:50,Happy,"It IS Friday! The weekend vibes are already flowing through my veins 🎉"
+2025-10-11 13:22,Neutral,"Lunchtime walk was surprisingly refreshing. The air just smelled clean 🌬️"
+2025-10-11 17:48,Stressed,"Left my keys at home. Classic Friday blunder. The struggle is real 🤦‍♂️"
+2025-10-11 20:05,Happy,"Key retrieved. Now settling in for a perfectly peaceful, key-free evening 😌"
+2025-10-12 10:11,Happy,"Spent the whole morning baking, and the results are delicious! Domestic bliss 🍰"
+2025-10-12 15:00,Neutral,"Just wandering around a local market. No goals, just browsing 🛍️"
+2025-10-12 19:33,压力大,"明天就要整理房间了，想想就头疼，拖延症犯了 🛋️"
+2025-10-13 11:45,Happy,"Sunday freedom! Managed to sleep in AND have time for a full breakfast 🍳"
+2025-10-13 15:52,Neutral,"Slow, cozy Sunday. Didn't do much, which is exactly what I needed 🧘"
+2025-10-13 21:08,Stressed,"Got an email about an urgent Monday meeting. The Sunday Scaries have arrived early 👻"
+2025-10-14 09:20,Stressed,"Back to the grind. My brain is still in weekend mode, send help! 😵"
+2025-10-14 13:40,Happy,"Conquered a tricky task at work. Feeling super competent! Like a tiny superhero 🦸‍♀️"
+2025-10-14 18:15,Neutral,"Decided to just have a quiet night in. No major decisions required. Blissful boredom 📺"
+2025-10-15 08:00,Happy,"Got a full 8 hours of sleep. I am officially unstoppable today. Watch out, world! 🚀"
+2025-10-15 12:35,压力大,"午休时间也在回复邮件，感觉自己是个永动机 ⚙️"
+2025-10-15 17:10,Neutral,"Feeling a bit drained but not unhappy. Just... low battery 🔋"
+2025-10-15 21:45,Happy,"Finished a book I've been meaning to read forever. Victory for my inner bookworm 📚"
+2025-10-16 09:50,Stressed,"A sudden fire drill (metaphorically). Just put out three small crises in a row 🔥"
+2025-10-16 14:15,Neutral,"The weather is grey, matching my productivity level. Just coasting ☁️"
+2025-10-16 19:00,开心,"在路上遇到了一只非常可爱的狗！被治愈了十分钟🐶"
+2025-10-16 22:55,Happy,"Quiet evening with good music. My anxiety levels have dropped to zero 🎶"
+2025-10-17 08:30,Happy,"The sun is shining, my favorite song came on, everything feels right ✨"
+2025-10-17 12:44,Neutral,"Just focused on breathing deeply and getting through the afternoon. Small wins count! 🧘"
+2025-10-17 17:33,Stressed,"Last minute request dropped on my desk. Why is this always a Friday thing? 🤯"
+2025-10-17 21:05,Happy,"Managed to wrap up the drama. Now, let the weekend begin! 🥂"
+2025-10-18 10:10,Happy,"Saturday morning vibes! Coffee, freedom, and absolutely zero plans. Perfect 🎉"
+2025-10-18 14:50,Neutral,"Spent the afternoon organizing a drawer. Strangely satisfying but not 'happy' 🗄️"
+2025-10-18 20:30,开心,"跟朋友一起吃了顿超级美味的火锅！幸福感爆棚🍲"
+2025-10-19 11:15,Stressed,"My smart home devices all failed at once. Technology is out to get me 🤖❌"
+2025-10-19 15:40,Happy,"Managed to fix the WiFi router myself! Feeling incredibly powerful 🔋"
+2025-10-19 19:00,Neutral,"Quiet evening. Watching the rain fall outside. A perfectly peaceful drone 🌧️"
+2025-10-20 08:25,Stressed,"Monday morning chaos is real. Already on my second cup of coffee and it's not working ☕❌"
+2025-10-20 12:59,Neutral,"Mid-day slump is hitting hard. Need a serious power nap or a time machine 😴"
+2025-10-20 15:30,开心,"收到了同事的夸奖，小小的认可给了我大大的动力！🌟"
+2025-10-20 18:40,Happy,"Made it through the Monday! Treating myself to my favorite take-out tonight. Reward earned 🥡"
+2025-10-20 21:15,Neutral,"Movie marathon and a snack coma. My brain is officially checked out for the night 🍿"
+2025-10-21 08:00,Happy,"Found the perfect outfit for today. Feeling confident and ready! 🌟"
+2025-10-21 12:45,Stressed,"Mid-day meeting ran over and derailed my entire schedule. Chaos reigns! 😵"
+2025-10-21 17:30,Neutral,"Managed to salvage the afternoon. Just coasting into the evening now. Survival mode 💪"
+2025-10-21 20:55,开心,"和朋友在健身房挥汗如雨，感觉身体被重启了！🔋"
+2025-10-22 09:10,Happy,"Unexpectedly easy morning commute. It's the small miracles 😇"
+2025-10-22 13:22,Neutral,"Lunch was forgettable. Need a chocolate pick-me-up later 🍫"
+2025-10-22 16:55,压力大,"一个系统突然崩溃了。我是 IT 救星吗？不，我只是想下班 💻🔥"
+2025-10-22 22:07,Happy,"Solved the technical issue! Feeling like a hacker movie star. I deserve this sleep 😴"
+2025-10-23 07:45,Stressed,"Overslept slightly and now I'm running on pure panic and adrenaline. Bad start 🚨"
+2025-10-23 11:58,Neutral,"Catching up on emails like a professional ninja. Silent, deadly, and fueled by coffee ☕"
+2025-10-23 15:10,Happy,"Got a lovely compliment on my work! Day instantly improved tenfold 🏆"
+2025-10-23 19:33,开心,"尝试了一个新的菜谱，非常成功！感觉可以去开餐厅了 👩‍🍳"
+2025-10-24 09:20,Happy,"Almost-Friday feeling is the best feeling. Powering through! ✨"
+2025-10-24 14:05,Neutral,"The afternoon feels like it's in slow motion. Wishing for the weekend ⏳"
+2025-10-24 18:15,Stressed,"Last-minute request pushed my dinner plans back. Why is it always Thursday? 😡"
+2025-10-24 22:30,Happy,"Finally got to relax. Lying down feels like floating. Peaceful 😌"
+2025-10-25 08:30,Happy,"It's FRIDAY! The sheer joy of two days off is palpable 🎉"
+2025-10-25 13:50,Neutral,"Had a surprisingly insightful conversation with a stranger in line. Huh. 🤔"
+2025-10-25 18:00,开心,"和老朋友约了见面，聊天聊到停不下来！友谊万岁 👯"
+2025-10-25 21:44,Happy,"Had a great night out. My laugh is loud and I don't care! 😂"
+2025-10-26 10:11,Happy,"Weekend baking project is a go! Smells amazing in here 🥐"
+2025-10-26 15:00,Neutral,"Did some light cleaning. It's less fun than baking, but necessary. Adulting is hard 🧹"
+2025-10-26 19:22,压力大,"周日要开始准备下周的工作了，感到巨大的心理压力 📚"
+2025-10-26 23:15,Stressed,"Can't stop doom-scrolling. Need to put the phone down and find my zen 📵"
+2025-10-27 11:30,Happy,"Managed to sleep late and still feel productive. Sunday magic! 💫"
+2025-10-27 15:45,Neutral,"Reading a book by the window. Quiet and uneventful, which is perfect 📖"
+2025-10-27 20:05,开心,"和家人一起吃了温馨的晚餐，简单又幸福 👨‍👩‍👧‍👦"
+2025-10-28 07:55,Stressed,"Back to the Monday grind. My motivation is currently on vacation. 🌴"
+2025-10-28 13:10,Neutral,"Just focused on one task at a time. Trying not to look at the massive to-do list 👁️"
+2025-10-28 18:22,Happy,"Got an early win today! Leaving work earlier than expected. Small victory dance! 💃"
+2025-10-29 09:40,Happy,"Woke up with a solution to a problem I was stuck on. Brain power! 💡"
+2025-10-29 14:33,Neutral,"Day is dragging a little, but the sun is out, so that's a plus. ☀️"
+2025-10-29 19:15,压力大,"突然接到一个深夜电话，被临时拉去处理紧急事务。今晚是无眠夜了 🦉"
+2025-10-30 08:15,Stressed,"Still recovering from last night's drama. Running on fumes and pure stubbornness. ⛽️"
+2025-10-30 13:00,Happy,"Coffee and a good sandwich saved my life. Immediate mood boost! 🥪"
+2025-10-30 17:40,Neutral,"Feeling balanced but tired. Like I just finished a marathon and now I'm sitting down. 👟"
+2025-10-30 21:05,开心,"为万圣节买了可爱的装饰品！期待明天的派对气氛 🎃"
+2025-10-31 09:30,Happy,"It's Halloween! Dressing up and feeling festive, even at work! 👻"
+2025-10-31 14:10,Neutral,"Trying to resist eating all the candy before the trick-or-treaters arrive. It's a test of will. 🍬"
+2025-10-31 19:50,Happy,"The Halloween party is a huge success! Laughter, costumes, and spooky fun! 🥳"
